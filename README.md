@@ -1,1 +1,6 @@
-# curso2024
+# Curso 2024
+
+Curso de programacion
+
+# Integrantes
+Wichovy
