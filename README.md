@@ -5,3 +5,4 @@ Curso de programacion
 # Integrantes
 - Wichovy 
 - Ganglock 
+- ranosis
